@@ -298,7 +298,7 @@ const getUserById = async(req,res)=>{
             auth: {
              
               user: "rajeshpriyait123@gmail.com",
-          pass: "eiet nylb bctv yerp",
+          pass: process.env.smtp_password,
             },
             // tls:{rejectUnauthorized: false} 
           })
