@@ -27,3 +27,13 @@ admin -dashboard:
     if you are a adminer ,you can add ,edit ,delete a product.
 All the reports are taken
 
+PORT = 8000
+DB_URL=mongodb+srv://rameshpriyait:priya123@cluster0.4scvjhb.mongodb.net
+DB_NAME=capstone_project
+JWT_SECRET = "jhhjbkhjbknKJHVBJHVBbjhy"
+JWT_EXPIRY = '2m'
+SENDGRID_API_KEY = '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'
+
+WEB_URL = 'http://localhost:5173'
+RAZORPAY_KEY_ID = "rzp_test_5hLdLmUevPlu7q";
+RAZORPAY_SECRET ="79cAivVc2t34uYGFoeM772F3";
