@@ -14,10 +14,10 @@ Dashboard :<<Image src="Screenshot(37).pnp" fluid />
 login:
 <p>
 user login details:
-        The sample userID - priya12@gmail.com , password is rameshpriya</p>
+        The sample userID - priya12@gmail.com , password is priyaramesh</p>
  Admin login details :
 
-        the sample userId - rithvik@gmail.com ,password is rameshpriya 
+        the sample userId - rithvik@gmail.com ,password is priyaramesh 
 signup: You create a new user
 forgot-password: if you forget your password ,you can change your password
 user -dashboard:
