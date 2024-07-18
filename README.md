@@ -27,3 +27,12 @@ admin -dashboard:
     if you are a adminer ,you can add ,edit ,delete a product.
 All the reports are taken
 
+JWT_SECRET = "jhhjbkhjbknKJHVBJHVBbjhy"
+JWT_EXPIRY = '2m'
+SENDGRID_API_KEY = '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'
+
+
+RAZORPAY_KEY_ID = "rzp_test_5hLdLmUevPlu7q";
+RAZORPAY_SECRET ="79cAivVc2t34uYGFoeM772F3";
+smtp_password = "eiet nylb bctv yerp";
+
